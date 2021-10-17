@@ -1,4 +1,4 @@
-# 100DaysOfCode - HTML
+# 100DaysOfCode - HTML Markup
 
 ### MDN skill assessment - Structuring a page of content
 <br />
