@@ -10,7 +10,7 @@ https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Structu
 
 ### Video Link (me doing the project):
 
-**JasheleTechTV** - https://www.youtube.com/watch?v=MOppw8KGN4s
+**JasheleTechTV** - https://youtu.be/MOppw8KGN4s
 <br /><br />
 
 
